@@ -1,0 +1,14 @@
+{
+  "name": "coderetreat-javascript-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
